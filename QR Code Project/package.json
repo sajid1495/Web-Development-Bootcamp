@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^12.0.1",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "This Project will generate QR code after taking input from user.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SaJiD",
+  "license": "ISC"
+}
